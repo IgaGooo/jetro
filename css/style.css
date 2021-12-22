@@ -1,3 +1,7 @@
 body{
     padding: 0;
+    background-color: #fff;
+}
+header{
+    background-color: rgb(255, 255, 255);
 }
